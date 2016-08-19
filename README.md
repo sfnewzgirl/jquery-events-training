@@ -103,6 +103,6 @@ Recommended: Can you link all the pages together? Create a `<nav>` element on ev
 
 ### Deliverables
 
-1. When you wrap up work, edit this README to include your name, a link to the original repository, and a 3-5 sentence reflection on completing this assignment. Push your updates to GitHub and add a link to the repo to the "My Work" section of your website!
-
-1. Choose one of the event types we've looked at or another you'd like to try, and implement it on your website.
+Misha LeClair
+Original Repository: http://github.com/sf-wdi-31/jquery-events-training.git
+I was able to complete the first two event exercises while working with classmates. Once I got 3, 4, 5 - I needed to reference the solutions to reverse engineer what was going on. Since this was the first day seeing jQuery, this was a big challenge for me.
